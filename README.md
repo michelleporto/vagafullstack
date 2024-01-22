@@ -10,7 +10,6 @@ Dev Full Stack: encontre a vaga remota no códio abaixo.
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
-    https://www.empregare.com/pt-br/vaga-desenvolvedor-fullstack-pleno-remoto_44854
           
 
 
